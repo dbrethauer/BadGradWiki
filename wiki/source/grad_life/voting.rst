@@ -16,6 +16,9 @@ The Bay Area is a very liberal place. In 2006, of Alameda county registered vote
 
 .. Representatives (2026):
 
+--------------
+Federal
+--------------
 The UC Berkeley campus area is represented by `US House Representative Lateefah Simon <https://simon.house.gov/>`__
 
    This page is a work in progress. Content is coming soon — if you have knowledge to share, see :ref:`contributing` to get involved!
