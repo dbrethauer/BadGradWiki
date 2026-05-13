@@ -14,4 +14,8 @@ If you're a first year student, out of state student, and US citizen, you should
 
 The Bay Area is a very liberal place. In 2006, of Alameda county registered voters, 55٪ were registered Democrats, 18٪ were registered Republicans, and nearly 2٪ were registered Greens. In the recent gubernatorial recall election more Alameda county votes were cast for the Green candidate than for the Republican (Ah-nold). And in Berkeley itself there were more registered Greens (3,958) than Republicans (3,765) in 2006.
 
+.. Representatives (2026):
+
+The UC Berkeley campus area is represented by `US House Representative Lateefah Simon <https://simon.house.gov/>`__
+
    This page is a work in progress. Content is coming soon — if you have knowledge to share, see :ref:`contributing` to get involved!
