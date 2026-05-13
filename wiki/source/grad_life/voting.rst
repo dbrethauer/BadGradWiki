@@ -26,4 +26,11 @@ The UC Berkeley campus area is represented by `US House Representative Lateefah 
 
 If you do not live near campus, you can find your federal representatives using `this website <https://www.congress.gov/members/find-your-member>`__
 
+
+^^^^^
+State
+^^^^^
+
+You can find your state representatives `here <https://findyourrep.legislature.ca.gov/>`__
+
    This page is a work in progress. Content is coming soon — if you have knowledge to share, see :ref:`contributing` to get involved!
